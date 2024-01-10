@@ -1,0 +1,2 @@
+The iris dataset contains 150 observations of three species of iris flowers: Iris setosa, Iris versicolor, and Iris virginica. For each observation, four features are measured: the length and width of the sepals and petals, in centimeters.
+The dataset was first introduced by the British statistician and biologist Ronald Fisher in his 1936 paper “The use of multiple measurements in taxonomic problems”. The dataset is often used for classification and clustering tasks, as well as for demonstrating various machine learning techniques.
